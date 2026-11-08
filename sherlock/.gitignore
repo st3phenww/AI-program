@@ -1,0 +1,6 @@
+.venv/
+results/
+validation/
+__pycache__/
+.env
+.env.*

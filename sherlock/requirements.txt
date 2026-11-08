@@ -1,0 +1,3 @@
+# Upstream release chosen on 2026-11-08.
+# For the tested exact dependency set, use requirements-lock.txt.
+sherlock-project==0.16.2
